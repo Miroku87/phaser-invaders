@@ -9,6 +9,7 @@ Alien = function (game,type)
     this.animations.add('move',[0,1],5,true);
 
     this.enableBody = true;
+    this.moves = false;
     game.physics.arcade.enable(this,Phaser.Physics.ARCADE);
 
     this.isDying = false;

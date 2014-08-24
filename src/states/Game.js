@@ -61,8 +61,8 @@ BasicGame.Game.prototype = {
     },
     render: function ()
     {
-        /*for(var a in Alien.instances)
-            this.game.debug.body(Alien.instances[a]);*/
+        for(var a in Alien.instances)
+            this.game.debug.body(Alien.instances[a]);
     },
     collisionHandler: function (proj, alien)
     {
