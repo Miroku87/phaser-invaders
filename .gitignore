@@ -14,6 +14,12 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Custom
+*.zip
+*.psd
+.idea/
+assets/_materiali/
+
 # =========================
 # Operating System Files
 # =========================
