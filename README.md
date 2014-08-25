@@ -1,4 +1,4 @@
-phaser-invaders
+Phaser Invaders
 ===============
 
 First Phaser IO Project
